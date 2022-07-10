@@ -1,0 +1,26 @@
+.container {
+  padding: 20px;
+  margin: 30px auto;
+  box-sizing: border-box;
+  background-color: #ffd27d;
+}
+.full-width {
+  width: 100%;
+}
+
+h4 {
+  text-align: center;
+  margin: 20px 0;
+  color: white;
+  padding: 5px 0;
+  background-color: #784421;
+}
+
+footer span {
+  display: inline-block;
+  background-color: #784421;
+  color: white;
+  padding: 30px;
+  width: 100%;
+  text-align: center;
+}
